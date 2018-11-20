@@ -5,7 +5,6 @@
 // @author       haimage
 // @require      http://cdn.bootcss.com/jquery/1.8.3/jquery.min.js
 // @match		 https://ua.ulearning.cn/learnCourse/learnCourse.html?courseId=9611*
-// @require      https://cdn.bootcss.com/clipboard.js/1.5.16/clipboard.min.js
 // @supportURL	 
 // @run-at       
 // @grant        
